@@ -4,36 +4,36 @@
 
 # Olympus Studio
 
-### Production-grade Discord infrastructure and scalable automation systems.
+### Infraestrutura de nível de produção para Discord e sistemas de automação escaláveis.
 
-Building commercial Discord ecosystems, backend platforms and production-focused tooling.
+Construindo ecossistemas comerciais para Discord, plataformas backend e ferramentas voltadas para produção.
 
 </div>
 
 ---
 
-# About Olympus Studio
+# Sobre a Olympus Studio
 
-Olympus Studio is a software ecosystem focused on building scalable systems for Discord communities, automation platforms and operational infrastructure.
+A Olympus Studio é um ecossistema de software focado na construção de sistemas escaláveis para comunidades do Discord, plataformas de automação e infraestrutura operacional.
 
-The project combines backend engineering, distributed systems, automation and infrastructure-oriented development to deliver maintainable and production-ready applications.
-
----
-
-# What We Build
-
-- Discord governance systems
-- White-label bot infrastructure
-- Commercial automation products
-- Authentication and verification systems
-- Multi-tenant backend architectures
-- Internal operational tooling
-- Distributed runtime systems
-- Infrastructure-focused applications
+O projeto combina engenharia de backend, sistemas distribuídos, automação e desenvolvimento orientado à infraestrutura para entregar aplicações de fácil manutenção e prontas para produção.
 
 ---
 
-# Core Technologies
+# O Que Construímos
+
+- Sistemas de governança para Discord
+- Infraestrutura de bots white-label
+- Produtos comerciais de automação
+- Sistemas de autenticação e verificação
+- Arquiteturas backend multi-tenant
+- Ferramentas operacionais internas
+- Sistemas de runtime distribuído
+- Aplicações voltadas à infraestrutura
+
+---
+
+# Principais Tecnologias
 
 <div align="center">
 
@@ -43,35 +43,31 @@ The project combines backend engineering, distributed systems, automation and in
 
 ---
 
-# Ecosystem
+# Ecossistema
 
 ## Athena
 
-Governance, moderation and verification platform focused on scalable Discord communities.
+Plataforma de governança, moderação e verificação focada em comunidades escaláveis do Discord.
 
 ## Olympus Auth
 
-Authentication and identity infrastructure with audit-oriented validation systems.
+Infraestrutura de autenticação e identidade com sistemas de validação voltados para auditoria.
 
 ## ClientBotRunner
 
-Distributed white-label runtime for multi-client Discord applications.
+Runtime white-label distribuído para aplicações Discord de múltiplos clientes.
 
-## Administrative Systems
+## Sistemas Administrativos
 
-Internal tooling, dashboards and operational automation systems.
-
-## Olympus Cloud *(Future)*
-
-Managed hosting and infrastructure platform for Discord ecosystems.
+Ferramentas internas, dashboards e sistemas de automação operacional.
 
 ---
 
-# Open Source
+# Código Aberto
 
-Olympus Studio maintains community-driven open source projects focused on Discord automation and scalable infrastructure tooling.
+A Olympus Studio mantém projetos open source desenvolvidos pela comunidade, focados em automação para Discord e ferramentas de infraestrutura escalável.
 
-Current community projects include:
+Os projetos atuais da comunidade incluem:
 
 - Olympus Ticket Community
 - Olympus Sales Community
@@ -79,32 +75,32 @@ Current community projects include:
 
 ---
 
-# Engineering Principles
+# Princípios de Engenharia
 
-- Security-first development
-- Production-oriented architecture
-- Automation over repetition
-- Observability and maintainability
-- Infrastructure-focused engineering
-- Scalable backend systems
-- Operational reliability
-- Long-term maintainability
-
----
-
-# Current Focus
-
-- Production hardening
-- Distributed bot infrastructure
-- Product QA automation
-- Observability and monitoring
-- White-label runtime systems
-- Commercial product delivery
-- Infrastructure scalability
+- Desenvolvimento com segurança em primeiro lugar
+- Arquitetura orientada à produção
+- Automação em vez de repetição
+- Observabilidade e facilidade de manutenção
+- Engenharia focada em infraestrutura
+- Sistemas backend escaláveis
+- Confiabilidade operacional
+- Manutenção de longo prazo
 
 ---
 
-# Organization Metrics
+# Foco Atual
+
+- Fortalecimento para produção
+- Infraestrutura distribuída de bots
+- Automação de QA de produtos
+- Observabilidade e monitoramento
+- Sistemas de runtime white-label
+- Entrega de produtos comerciais
+- Escalabilidade da infraestrutura
+
+---
+
+# Métricas da Organização
 
 <div align="center">
 
@@ -114,17 +110,17 @@ Current community projects include:
 
 ---
 
-# Contact
+# Contato
 
-- Website: `olympusstudio.com.br`
-- Business: `contato@olympusstudio.com.br`
-- Support: `suporte@olympusstudio.com.br`
-- Legal: `legal@olympusstudio.com.br`
+- Site: `olympusstudio.com.br`
+- Comercial: `contato@olympusstudio.com.br`
+- Suporte: `suporte@olympusstudio.com.br`
+- Jurídico: `legal@olympusstudio.com.br`
 
 ---
 
 <div align="center">
 
-> “Infrastructure should scale with the ecosystem.”
+> “A infraestrutura deve escalar junto com o ecossistema.”
 
 </div>

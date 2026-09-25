@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://public-blob.squarecloud.dev/8c0581e39496096d54dcb900d53d6ce2fee14248/olympus.png" width="100%" />
+<img src="https://i.pinimg.com/1200x/72/0e/a2/720ea28feb423025b896f0322554eb05.jpg" width="100%" />
 
 # Olympus Studio
 
@@ -97,16 +97,6 @@ Os projetos atuais da comunidade incluem:
 - Sistemas de runtime white-label
 - Entrega de produtos comerciais
 - Escalabilidade da infraestrutura
-
----
-
-# Métricas da Organização
-
-<div align="center">
-
-<img src="/github-metrics.svg" width="100%" />
-
-</div>
 
 ---
 
